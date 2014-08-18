@@ -1,0 +1,81 @@
+[10-Feb-2011 21:54:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'vkonovin'@'localhost' (using password: YES) in /home/vkonovin/public_html/borsa/config.php on line 8
+[10-Feb-2011 21:55:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'vkonovin_borsa'@'localhost' (using password: YES) in /home/vkonovin/public_html/borsa/config.php on line 8
+[10-Feb-2011 21:56:00] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'vkonovin_borsa'@'localhost' (using password: YES) in /home/vkonovin/public_html/borsa/config.php on line 8
+[13-Feb-2011 17:52:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/vkonovin/public_html/borsa/rss.php on line 1
+[13-Feb-2011 17:58:34] PHP Parse error:  syntax error, unexpected T_STRING in /home/vkonovin/public_html/borsa/rss.php on line 1
+[13-Feb-2011 17:58:35] PHP Parse error:  syntax error, unexpected T_STRING in /home/vkonovin/public_html/borsa/rss.php on line 1
+[13-Feb-2011 18:03:20] PHP Parse error:  syntax error, unexpected T_STRING in /home/vkonovin/public_html/borsa/rss.php on line 1
+[18-Feb-2011 08:43:30] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[18-Feb-2011 08:43:39] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[18-Feb-2011 08:44:42] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[20-Feb-2011 00:39:00] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[09-Mar-2011 21:22:55] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[29-Mar-2011 23:22:33] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[29-Mar-2011 23:22:41] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:02:13] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:02:13] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:02:13] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:02:14] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:02:14] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:02:16] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:02:45] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:02:49] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:03:33] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:03:33] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:03:35] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:03:36] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:03:40] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:03:40] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:04:06] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:04:06] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:04:14] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:04:14] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:04:14] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:04:38] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:05:04] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:05:05] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:05:07] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:05:21] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:22] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:22] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:23] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:23] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:23] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:23] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:23] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:23] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:47] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:47] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:47] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:47] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[17-Apr-2011 16:58:50] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[11-Aug-2011 17:42:52] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[11-Aug-2011 17:44:26] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[11-Aug-2011 17:50:26] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[11-Aug-2011 17:50:39] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[11-Aug-2011 17:51:06] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[11-Aug-2011 17:51:56] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[11-Aug-2011 17:52:25] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[11-Aug-2011 17:52:30] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[11-Aug-2011 21:09:25] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[04-Sep-2011 16:38:44] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[04-Sep-2011 16:38:54] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[04-Sep-2011 16:38:59] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[04-Sep-2011 16:39:02] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[18-Sep-2011 02:35:25] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[19-Sep-2011 23:34:24] PHP Warning:  array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array in /home/vkonovin/public_html/borsa/index.php on line 17
+[19-Sep-2011 23:34:24] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/vkonovin/public_html/borsa/index.php on line 9
+[19-Sep-2011 23:34:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/vkonovin/public_html/borsa/index.php:17) in /home/vkonovin/public_html/borsa/index.php on line 21
+[19-Sep-2011 23:35:30] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/vkonovin/public_html/borsa/index.php on line 6
+[19-Sep-2011 23:35:31] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/vkonovin/public_html/borsa/index.php on line 6
+[19-Sep-2011 23:35:32] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/vkonovin/public_html/borsa/index.php on line 6
+[19-Sep-2011 23:35:35] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/vkonovin/public_html/borsa/index.php on line 6
+[19-Sep-2011 23:35:37] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/vkonovin/public_html/borsa/index.php on line 6
+[19-Sep-2011 23:35:38] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/vkonovin/public_html/borsa/index.php on line 6
+[19-Sep-2011 23:35:38] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/vkonovin/public_html/borsa/index.php on line 6
+[19-Sep-2011 23:35:47] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/vkonovin/public_html/borsa/index.php on line 6
+[19-Sep-2011 23:37:29] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[19-Sep-2011 23:37:37] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[19-Sep-2011 23:38:30] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[19-Sep-2011 23:39:04] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
+[14-Nov-2011 13:40:13] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vkonovin/public_html/borsa/Header.php on line 107
